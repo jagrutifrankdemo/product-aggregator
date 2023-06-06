@@ -1,6 +1,6 @@
 # Product Aggregator
 A ‘Product Aggregator’ application should read product data from a *.csv file.
-<B> refer service method readCSVFile (read)</B>
+<B> refer service method readCSVFile</B>
 <BR><BR>A ‘Product Aggregator’ application should implement a filter by ‘product line’.
 <b>refer to method :achived by calling getFilteredList  using correct param values </B> <BR><BR>A ‘Product Aggregator’ application should implement a filter by ‘product brand’.
 <b>refer to method :achived by calling getFilteredList  using correct param values </B> <BR><BR>A ‘Product Aggregator’ application should implement a sum of all product prices.
